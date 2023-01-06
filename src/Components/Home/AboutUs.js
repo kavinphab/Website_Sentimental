@@ -8,7 +8,7 @@ import React from "react";
 export default function AboutUs() {
   return (
     <div className="flex justify-around m-6">
-      <div className="bg-green-500">
+      <div className="border-8 border-green-500 bg-green-500">
         <img className="h-80 w-90" src={Kavin} alt="Kavin" />
         <h1 className="flex justify-center">
           {" "}
@@ -28,7 +28,7 @@ export default function AboutUs() {
         </div>     
       
 
-      <div className="bg-red-500">
+      <div className="border-8 border-red-500 bg-red-500">
         <img className="h-80 w-90 " src={Rohan} alt="Rohan" />
         <h1 className="flex justify-center">
           {" "}
@@ -47,7 +47,7 @@ export default function AboutUs() {
         </div> 
       </div>
 
-      <div className="bg-blue-500">
+      <div className="border-8 border-blue-500 bg-blue-500">
         <img className="h-80 w-90" src={Shaurya} alt="Shaurya" />
         <h1 className="flex justify-center">
           {" "}
