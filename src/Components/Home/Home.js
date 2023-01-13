@@ -39,7 +39,7 @@ const Home = () => {
       </div>
       <a
         href="https://discord.com/oauth2/authorize?client_id=1038500778962337873&permissions=534723951680&scope=bot"
-        className="flex  justify-center px-6 py-3 text-white no-underline bg-orange-500 rounded hover:bg-orange-600 hover:text-blue-200 "
+        className="flex  justify-center px-6 py-3 text-white no-underline bg-orange-500 rounded hover:bg-orange-600 hover:text-blue-200 " target="_blank" rel="noreferrer"
       >
         Add to server
       </a>
