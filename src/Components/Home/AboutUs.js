@@ -15,13 +15,13 @@ export default function AboutUs() {
           <br /> Kavin Phabiani{" "}
         </h1>
         <div className="flex justify-around">
-          <a href="https://www.linkedin.com/in/kavin-phabiani/">
+          <a href="https://www.linkedin.com/in/kavin-phabiani/" target="_blank" rel="noreferrer">
             <FaLinkedin size={30} />
           </a>
         
 
         
-          <a href="https://github.com/kavinphab">
+          <a href="https://github.com/kavinphab" target="_blank" rel="noreferrer">
             <FaGithub size={30} />
           </a>
         </div>   
@@ -35,13 +35,13 @@ export default function AboutUs() {
           <br /> Rohan Bijukumar{" "}
         </h1>
         <div className="flex justify-around">
-          <a href="https://www.linkedin.com/in/rohan-bijukumar-678439237/">
+          <a href="https://www.linkedin.com/in/rohan-bijukumar-678439237/" target="_blank" rel="noreferrer">
             <FaLinkedin size={30} />
           </a>
         
 
         
-          <a href="https://github.com/rbiju001">
+          <a href="https://github.com/rbiju001" target="_blank" rel="noreferrer">
             <FaGithub size={30} />
           </a>
         </div> 
@@ -54,13 +54,13 @@ export default function AboutUs() {
           <br /> Shaurya Pathak{" "}
         </h1>
         <div className="flex justify-around">
-          <a href="https://www.linkedin.com/in/shaurya-pathak-b0614a1b2/">
+          <a href="https://www.linkedin.com/in/shaurya-pathak-b0614a1b2/" target="_blank" rel="noreferrer">
             <FaLinkedin size={30} />
           </a>
         
 
         
-          <a href="https://github.com/shaurya-pathak">
+          <a href="https://github.com/shaurya-pathak" target="_blank" rel="noreferrer">
             <FaGithub size={30} />
           </a>
         </div> 
